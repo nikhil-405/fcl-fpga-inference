@@ -1,2 +1,3 @@
-# fcl-fpga-inference
-This repository contains the Verilog and Python code used to implement, test and optimize Fully Connected layers on FPGA boards.
+# Implementing Parallel inference of FCL on FPGA
+
+This project aims at implementing parallel inference of a Fully Connected Layer (FCL) on FPGA. 

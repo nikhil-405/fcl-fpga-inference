@@ -1,6 +1,0 @@
-Vivado Simulator 2019.2
-Time resolution is 1 ps
- Block Memory Generator module loading initial data...
- Block Memory Generator data initialization complete.
-Block Memory Generator module BRAM_W_2_tb.memory.inst4.inst.native_mem_module.blk_mem_gen_v8_4_4_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
-$finish called at time : 80 ns : File "C:/Users/LABAdmin/BRAMNN/BRAMNN.srcs/sim_1/new/BRAM_W_2_tb.v" Line 77
